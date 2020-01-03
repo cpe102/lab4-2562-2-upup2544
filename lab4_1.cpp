@@ -1,6 +1,6 @@
 #include<iostream>
 #include<cmath>
-using namespace std;
+using namespace std;2
 
 double funtion(double x){
 	double y=(3*x*x*x)+(2*2.71828)+pow(2,((2*x)+1))+pow(((x*x)+1),0.5);
